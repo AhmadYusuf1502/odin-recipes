@@ -1,0 +1,21 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+div{
+    border-radius: 10px;
+    border-style: dotted;
+    width: 800px;
+    margin: auto;
+    background-color: aqua;
+}
+
+h1{
+    font-size: 38px;
+    font-weight: 1000;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    font-weight: bold;
+}
